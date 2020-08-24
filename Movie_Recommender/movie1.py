@@ -1,3 +1,7 @@
+#=======================================================================
+# Author : Pratik Vispute
+#=======================================================================
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -112,6 +116,3 @@ plt.ylabel('Movie Title', weight='bold')
 plt.savefig('scored_movies.png')
 plt.show()
 
-#=======================================================================
-# Author : Pratik Vispute
-#=======================================================================
